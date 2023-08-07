@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Embedded Systems**
 - ⚡ I'm working on **Electrical Installation Project (in AutoCAD)** in my spare time.
-- 🌱 I’m currently learning **.NET Core Web Programming**
+- 🌱 I’m currently learning **Qt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
