@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Embedded Systems**
+- 🔭 I’m currently working on **Qt **
 - ⚡ I'm working on **Electrical Installation Project (in AutoCAD)** in my spare time.
-- 🌱 I’m currently learning **Qt**
+- 🌱 I’m currently learning **redis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
