@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Qt **
+- 🔭 I’m currently working on **Qt**
 - ⚡ I'm working on **Electrical Installation Project (in AutoCAD)** in my spare time.
 - 🌱 I’m currently learning **redis**
 
